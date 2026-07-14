@@ -1,0 +1,4 @@
+# Pyrefly configuration for the backend package
+# Points to the project .venv so sqlalchemy, pydantic, fastapi etc. resolve correctly.
+python-interpreter = "../.venv/Scripts/python.exe"
+site-package-path = ["../.venv/Lib/site-packages"]

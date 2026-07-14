@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "d:\\ml project\\Ship It ML\\.venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "d:\\ml project\\Ship It ML\\backend"
+  ],
+  "pyrefly.pythonInterpreter": "d:\\ml project\\Ship It ML\\.venv\\Scripts\\python.exe",
+  "python.analysis.venvPath": "d:\\ml project\\Ship It ML",
+  "python.analysis.venv": ".venv"
+}
